@@ -15,7 +15,7 @@ function Navbar({Page, setPage}) {
     if (location.pathname === '/Country') setPage('Country');
     if (location.pathname === '/Contact') setPage('Contact');
     
-  }, []);
+  }, [location.pathname, setPage]);
 
   function home() {
     setPage("Home")
@@ -36,7 +36,7 @@ function Navbar({Page, setPage}) {
     <>
       <nav class="navbar nav navbar-expand-lg navbar-light bg-light">
         <div class="container">
-          <a class="navbar-brand" href="#"><b>WorldAtlas</b></a>
+          <Link class="navbar-brand" to="#"><b>WorldAtlas</b></Link>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
