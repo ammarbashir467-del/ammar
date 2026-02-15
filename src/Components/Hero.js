@@ -1,6 +1,4 @@
-import React, { useState } from "react";
 import { FaArrowRightLong } from "react-icons/fa6";
-import Home from "../Pages/Home";
 import { useNavigate } from "react-router-dom";
 
 function Hero({setPage}) {

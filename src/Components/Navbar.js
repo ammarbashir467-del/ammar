@@ -1,5 +1,5 @@
-import react, { useEffect, useState } from "react";
-import { Link, useLocation, useNavigate } from "react-router-dom";
+import  { useEffect } from "react";
+import { Link, useLocation } from "react-router-dom";
 
 function Navbar({Page, setPage}) {
 

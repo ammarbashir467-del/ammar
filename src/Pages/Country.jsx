@@ -1,10 +1,10 @@
 import React from "react";
-import { Country } from "../Components/Country";
+import { CountryComp } from "../Components/CountryComp";
 import { Footer } from "../Components/Footer";
-function Contact() {
+function Country() {
     return (
         <>
-            <Country />
+            <CountryComp/>
             <Footer />
         </>
     );

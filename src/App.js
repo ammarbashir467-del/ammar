@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Route, BrowserRouter, Routes } from 'react-router-dom';
-import Parent from './Pages/Parent';
+
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Contact from './Pages/Contact';
