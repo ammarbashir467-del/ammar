@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "population": "241 million",
+    "interestingFact": "Pakistan has the second largest salt mine in the world (Khewra Salt Mine)."
+  },
+  {
+    "id": 3,
+    "country": "China",
+    "capital": "Beijing",
+    "population": "1410 million",
+    "interestingFact": "The Great Wall of China is one of the longest structures ever built."
+  },
+  {
+    "id": 4,
+    "country": "United States",
+    "capital": "Washington, D.C.",
+    "population": "335 million",
+    "interestingFact": "The United States consists of 50 states.USA is a super power."
+  },
+  {
+    "id": 5,
+    "country": "United Kingdom",
+    "capital": "London",
+    "population": "67 million",
+    "interestingFact": "London has one of the oldest underground railway systems."
+  },
+  {
+    "id": 6,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": "124 million",
+    "interestingFact": "Japan is famous for its high-speed bullet trains."
+  },
+  {
+    "id": 7,
+    "country": "Germany",
+    "capital": "Berlin",
+    "population": "84 million",
+    "interestingFact": "Germany is known for its autobahns with no speed limits in some areas."
+  },
+{
+  "id": 8,
+  "country": "France",
+  "capital": "Paris",
+  "population": "65 million",
+  "interestingFact": "The Eiffel Tower is repainted every 7 years to prevent rust."
+},
+{
+  "id": 9,
+  "country": "Turkey",
+  "capital": "Ankara",
+  "population": "85 million",
+  "interestingFact": "Turkey is located in both Europe and Asia continents."
+},
+  {
+    "id": 10,
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": "36 million",
+    "interestingFact": "Saudi Arabia is home to the two holiest cities in Islam, Makkah and Madinah."
+  }
+]

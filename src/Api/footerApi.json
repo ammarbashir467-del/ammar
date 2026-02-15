@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Lahore, Pakistan"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+92 300 1234567"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@example.com"
+  }
+]
